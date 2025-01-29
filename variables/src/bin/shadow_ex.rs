@@ -1,5 +1,5 @@
 fn main(){
-    let raw_data = "1A"; //Hex byte
+    let raw_data = "2A"; //Hex byte
     println!("Raw data :{}", raw_data);
 
     //shadow decimal interpretation
